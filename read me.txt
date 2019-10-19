@@ -1,0 +1,13 @@
+this code solved the two common problems of ESP8266 based product
+development.The solved problem:
+1.auto connecte wifi
+2. stable wifi local webserver
+
+Through this code  gives two button to control the builtin led of the ESP8266-12.
+But This code can be use for all ESP8266 based iot product production.
+
+this code is open for everyone use
+
+N.B.: I will not be responsible of any thing if you use this code. 
+
+
